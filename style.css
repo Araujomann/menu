@@ -1,0 +1,113 @@
+body {
+    background-image: url(https://images.wallpaperscraft.com/image/single/cake_dessert_coffee_beans_197922_1920x1080.jpg);
+    background-attachment: fixed;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+h1 {
+   color: "black";
+   font-family:sans-serif;
+   font-size: 40px;
+   padding-top:24px;
+   margin-bottom:20px;
+}
+h2 {
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   margin: 19px;
+}
+
+
+.menu {
+    width: 60%;
+    background-color: #faedcd;
+    margin:auto; 
+    width:980px; 
+}
+h1, h2, p {
+    text-align: center;
+}
+
+hr {
+   background-color: #d4a373;
+   border-color:#d4a373;
+   height:2px;  
+   margin-left: 3%;
+   margin-right: 3%;
+}
+
+
+.established {
+   font-style: italic;
+   margin-top: -5px;
+}
+
+
+.flavor {
+   text-align: left;
+   width: 75%;
+   padding-left: 3%;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.price {
+   text-align: right;
+   width: 18%;
+}
+
+
+.item p {
+   display: inline-block;
+   font-size: 18px;
+}
+
+
+#bolos {
+   padding-bottom:8px;
+}
+
+
+#data {
+   font-style:oblique;
+   padding-bottom:20px;
+   padding-bottom: 28px;
+}
+
+
+.footer {
+   font-size: 15px;
+}
+
+
+a {
+   color: black;
+}
+a:visited {
+   color: black;
+}
+a:hover {
+   color: brown;
+}
+a:active {
+   color: brown;
+}
+
+
+.bottom-line {
+   margin-bottom: 25px;
+}
+
+
+.icons {
+   height: auto;
+   width: 9%;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top:-25px;
+}
+
+#pie {
+   margin-top:-35px;
+}
