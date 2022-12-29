@@ -19,10 +19,10 @@ h2 {
 
 
 .menu {
-    width: 60%;
-    background-color: #faedcd;
+    background: linear-gradient(180deg, #fefae0, #d4a373);
     margin:auto; 
     width:980px; 
+    box-shadow: 5px -3px 4px 1px #d4a373;
 }
 h1, h2, p {
     text-align: center;
@@ -96,6 +96,8 @@ a:active {
 
 .bottom-line {
    margin-bottom: 25px;
+   background-color: #774936;
+   border-color: #774936;
 }
 
 
